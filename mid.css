@@ -1,0 +1,101 @@
+.mid
+{
+    
+    background-color:rgb(224, 171, 161);
+    width: 82vw;
+       margin: -18px auto;
+}
+.new
+{
+    display: flex;
+    padding: 9px 9px;
+}
+.neww
+{
+    border: 1px solid red;
+    height: 45px;
+    width: 48px;
+    border-radius: 61px;
+}
+.newww
+{
+    margin: 12px 37px;
+    font-family: 'Girassol', cursive;
+}
+.newww:hover{
+    color: rgb(22, 70, 230);
+}
+.middle{
+    height: 398px;
+width: 81vw;
+margin: 3px 6px;
+}
+.but
+{
+    display: flex;
+    margin:-30px 26px;
+    
+}
+.buttt
+{
+    display: flex;
+padding: -1px 3px;
+}
+.come
+{
+    list-style: none;
+    padding: 0 8px;
+}
+.like
+{
+    width: 62px;
+border: 2px solid black;
+border-radius: 21px;
+font-style: italic;
+}
+.bu
+{
+    width: 413px;
+border: 2px solid black;
+border-radius: 21px;
+font-style: italic;
+}
+.comment
+{
+    width: 74px;
+    border: 2px solid black;
+    border-radius: 21px;
+    font-style: italic;
+}
+.share
+{
+    width: 62px;
+    border: 2px solid black;
+    border-radius: 21px;
+    font-style: italic;
+}
+
+.like:hover
+{
+    background-color: mediumpurple;
+    color:rgb(70, 4, 70);
+}
+.text:hover
+{
+    
+    background-color: mediumpurple;
+    color:rgb(70, 4, 70);
+}
+.comment:hover
+{
+     
+    background-color: mediumpurple;
+    color:rgb(70, 4, 70);
+}
+.share:hover
+{
+    
+    background-color: mediumpurple;
+    color:rgb(70, 4, 70);
+}
+
